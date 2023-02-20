@@ -5,22 +5,13 @@
     --border-radius: 1.2rem;
     --border-radius-lg: 2.4rem;
 
-    /* --color-bg: hsl(129, 41%, 16%);
-    --color-bg2: hsl(129, 41%, 24%);
-    --color-brand: hsl(31, 85%, 62%);
-    --color-brand2: hsl(31, 85%, 52%);
-    --sidebar-hsl: 129, 41%, 10%;
-    --color-body: hsl(129, 41%, 80%);
-    --color-heading: hsl(129, 41%, 95%); */
-
     --color-bg: hsl(129, 41%, 16%);
     --color-bg2: hsl(129, 41%, 24%);
     --color-brand: hsl(31, 85%, 62%);
     --color-brand2: hsl(31, 85%, 52%);
     --sidebar-hsl: 129, 41%, 10%;
-    --color-body: hsl(129, 41%, 80%);
+    --color-body: hsl(129, 41%, 85%);
     --color-heading: hsl(129, 41%, 95%);
-    
 }
 
 *,*::after,*::before {
@@ -368,6 +359,7 @@ footer {
 footer .container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
 }
 

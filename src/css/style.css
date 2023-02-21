@@ -5,13 +5,69 @@
     --border-radius: 1.2rem;
     --border-radius-lg: 2.4rem;
 
-    --color-bg: hsl(129, 41%, 16%);
+    /* --color-bg: hsl(129, 41%, 16%);
     --color-bg2: hsl(129, 41%, 24%);
     --color-brand: hsl(31, 85%, 62%);
     --color-brand2: hsl(31, 85%, 52%);
     --sidebar-hsl: 129, 41%, 10%;
     --color-body: hsl(129, 41%, 85%);
-    --color-heading: hsl(129, 41%, 95%);
+    --color-heading: hsl(129, 41%, 95%); */
+
+    /* --color-bg: hsl(33, 53%, 21%);
+    --color-bg2: hsl(33, 53%, 31%);
+    --color-brand: hsl(47, 88%, 53%);
+    --color-brand2: hsl(47, 88%, 63%);
+    --sidebar-hsl: 33, 53%, 10%;
+    --color-body: hsl(33, 53%, 85%);
+    --color-heading: hsl(33, 53%, 95%); */
+
+    /* --color-brand: hsl(210, 100%, 69%);
+    --color-brand2: hsl(210, 100%, 79%);
+    --color-bg: hsl(210, 100%, 17%);
+    --color-bg2: hsl(210, 100%, 25%);
+    --sidebar-hsl: 210, 100%, 10%;
+    --color-body: hsl(210, 100%, 85%);
+    --color-heading: hsl(210, 100%, 95%); */
+
+    /* --color-brand: hsl(55, 95%, 63%);
+    --color-brand2: hsl(55, 95%, 43%);
+    --color-bg: hsl(241, 67%, 35%);
+    --color-bg2: hsl(241, 67%, 45%); 
+    --sidebar-hsl: 241, 67%, 15%;
+    --color-body: hsl(241, 67%, 82%);
+    --color-heading: hsl(241, 67%, 95%); */
+
+    /* --color-bg: hsl(165, 63%, 15%);
+    --color-bg2: hsl(165, 63%, 20%);
+    --color-brand: hsl(70, 69%, 53%);
+    --color-brand2: hsl(70, 69%, 63%);
+    --sidebar-hsl: 165, 63%, 10%;
+    --color-body: hsl(165, 63%, 85%);
+    --color-heading: hsl(165, 63%, 95%); */
+
+    /* --color-brand: hsl(206, 7%, 52%);
+    --color-brand2: hsl(206, 7%, 62%);
+    --color-bg: hsl(210, 11%, 15%);
+    --color-bg2: hsl(210, 10%, 23%);
+    --sidebar-hsl: 210, 10%, 10%;
+    --color-body: hsl(210, 10%, 85%);
+    --color-heading: hsl(210, 10%, 95%); */
+
+    /* --color-brand: hsl(83, 34%, 61%);
+    --color-brand2: hsl(104, 29%, 43%);
+    --color-bg: hsl(132, 35%, 15%);
+    --color-bg2: hsl(131, 35%, 24%);
+    --sidebar-hsl: 131, 35%, 10%;
+    --color-body: hsl(131, 35%, 84%);
+    --color-heading: hsl(131, 35%, 95%); */
+
+    --color-brand: hsl(252, 78%, 72%);
+    --color-brand2: hsl(252, 78%, 62%);
+    --color-bg: hsl(247, 44%, 23%);
+    --color-bg2: hsl(247, 44%, 32%);
+    --sidebar-hsl: 247, 44%, 15%;
+    --color-body: hsl(252, 78%, 85%);
+    --color-heading: hsl(252, 78%, 95%);
 }
 
 *,*::after,*::before {
@@ -301,7 +357,7 @@ section.full-height {
 }
 
 .card-padding {
-    padding: 4.4rem 3.2rem;
+    padding: 3.2rem;
 }
 
 .card img {
